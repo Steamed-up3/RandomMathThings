@@ -8,7 +8,6 @@ def math():
 
     for i in range(ans):
         print(i**i)
-
     print('Done.')
 
 math()
